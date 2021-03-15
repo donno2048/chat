@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "Chat on the localhost",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["chat"],
+  "author": "Elisha Hollander",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "open": "^8.0.2",
+    "socket.io": "^2.3.0"
+  }
+}
