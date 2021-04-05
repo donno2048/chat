@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["chat"],
+  "keywords": [
+    "chat"
+  ],
   "author": "Elisha Hollander",
   "license": "MIT",
   "dependencies": {
