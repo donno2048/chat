@@ -12,8 +12,8 @@
   "author": "Elisha Hollander",
   "license": "MIT",
   "dependencies": {
-    "express": "^5.0.0",
+    "express": "^5.0.1",
     "open": "^8.0.2",
-    "socket.io": "^4.7.5"
+    "socket.io": "^4.8.0"
   }
 }
